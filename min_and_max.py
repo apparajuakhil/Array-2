@@ -5,8 +5,8 @@ Problem2
 Given an array of numbers of length N, find both the minimum and maximum. 
 Follow up : Can you do it using less than 2 * (N - 2) comparison
 
-Time Complexity :
-Space Complexity : 
+Time Complexity : O(n/2) ~ O(n)
+Space Complexity : O(1)
 Did this code successfully run on Leetcode : Yes
 Any problem you faced while coding this : No
 
